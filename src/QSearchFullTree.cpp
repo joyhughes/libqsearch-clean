@@ -29,7 +29,6 @@ void QSearchFullTree::set_score() {
     }
 }
 
-
 QSearchFullTree::QSearchFullTree(const QSearchTree& clt) : dm( clt.dm ) {
     
     unsigned int i,j; 
